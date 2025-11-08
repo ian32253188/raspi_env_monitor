@@ -1,0 +1,6 @@
+Flask
+Flask-SQLAlchemy
+RPi.GPIO
+dht11
+apds9930
+openai
